@@ -1,6 +1,6 @@
 
 #----------------------------------------------------------------------------#
-# Importing the models (Artist, Venue, Show) from Models.pe
+# Importing the models (Artist, Venue, Show) from Models
 #----------------------------------------------------------------------------#
 
 import sys
