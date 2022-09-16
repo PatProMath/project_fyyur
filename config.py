@@ -21,7 +21,11 @@ DEBUG = True
 
 # Connect to the database
 
+<<<<<<< HEAD
 
 # TODO IMPLEMENT DATABASE URL
 SQLALCHEMY_DATABASE_URI = '<Put your local database url>'
 >>>>>>> 3891aaf (updated starter code into root from starter_code folder)
+=======
+SQLALCHEMY_DATABASE_URI = 'postgresql://patty:pos02@localhost:5432/fyyur_db'
+>>>>>>> 5769ef4 (Edit app for real data, separation of concerns)
