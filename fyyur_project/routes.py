@@ -1,6 +1,6 @@
 
 #----------------------------------------------------------------------------#
-# Importing the models (Artist, Venue, Show) from Models
+# Importing the Models (Artist, Venue, Show) from models.py
 #----------------------------------------------------------------------------#
 
 import sys
